@@ -9,12 +9,13 @@ A simple menu-driven calculator program written in Python.
 - Division
 
 ## Concepts Used
-- Input/Output
-- Conditional statements
-- Loops
+- Input and Output
+- Conditional Statements
+- While Loop
 
 ## How to Run
 Run the program using Python in the terminal.
+
 
 
 
